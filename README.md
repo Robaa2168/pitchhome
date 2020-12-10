@@ -25,9 +25,9 @@ As a user I would like:
 ## How to use it
 
 > * Internet connection
-> * Click https://pitchthis.herokuapp.com/) <br/>
+> * Click ) <br/>
   or <br/>
-> * Copy https://pitchthis.herokuapp.com/) and  Paste the link on your prefered browser
+> * Copy /) and  Paste the link on your prefered browser
 
 ## How it works
 
@@ -37,7 +37,7 @@ As a user I would like:
 
 ## Technologies Used
 
-> * Python3.6
+> * Python3.9
 > * Flask framework
 > * Bootstrap
 > * PostgreSQL
