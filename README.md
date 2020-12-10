@@ -76,7 +76,7 @@ As a user I would like:
 > * pip install Flask-Mail
 > * pip install flask-uploads
 
-## Specifications
+## Specification
 
 > * To see the projects specifications refer to the [SPECS.md](SPECS.md) file for more details.
 
