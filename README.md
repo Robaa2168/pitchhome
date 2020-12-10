@@ -47,8 +47,8 @@ As a user I would like:
 ### Prerequisites
 
 > * Internet access
-> * ```git clone https://github.com/Robaa2168/pitches-.git```
-> * ```cd pitchhome-```
+> * ```git clone https://github.com/Robaa2168/pitchhome.git```
+> * ```cd pitchhome```
 
 #### To install a virtual environment
 
