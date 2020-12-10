@@ -1,4 +1,4 @@
-# Pitches-
+# Pitchhome
 
 > A web application that allows the users to post pitches, comment and vote on pitches.
 
@@ -48,7 +48,7 @@ As a user I would like:
 
 > * Internet access
 > * ```git clone https://github.com/Robaa2168/pitches-.git```
-> * ```cd Pitches-```
+> * ```cd pitchhome-```
 
 #### To install a virtual environment
 
