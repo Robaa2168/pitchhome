@@ -93,7 +93,7 @@ for Reviews, Advice, Collaborations and Comments
 
 > MIT License
 
-> Copyright (c) 2012 **Robert Kiokoech**
+> Copyright (c) 2020 **Robert Kiokoech**
 
 > Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
